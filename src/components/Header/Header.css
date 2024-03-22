@@ -1,3 +1,11 @@
 nav a {
   margin-right: 30px;
 }
+
+nav a.active {
+  text-decoration: underline;
+  color: saddlebrown;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+}
